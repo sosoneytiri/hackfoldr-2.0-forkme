@@ -1,6 +1,6 @@
-  name: ikeainthehouse.
+  name: hack.sosoneytiri.tw.
   type: CNAME
-  value: ikeainthehouse.github.io 
+  value: sosoneytiri.github.io 
   evaluate target: -
   health check id: -
   ttl: 300
