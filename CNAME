@@ -1,6 +1,6 @@
-  name: YJChen.
+  name: sosoneytiri.
   type: CNAME
-  value: YJChen.github.io 
+  value: sosoneytiri.github.io 
   evaluate target: -
   health check id: -
   ttl: 300
