@@ -1,1 +1,6 @@
-(your domain name)
+  name: YJChen.
+  type: CNAME
+  value: YJChen.github.io 
+  evaluate target: -
+  health check id: -
+  ttl: 300
